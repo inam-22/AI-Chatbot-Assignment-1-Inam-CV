@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.Header{
+    text-align: center;
+    color:lightseagreen;
+}
+.Header img{
+    width: 11%;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 2%;
+   
+}
+
+.header-sum h2{
+    color: lightseagreen;
+    margin-left: 3%;
+}
+.header-sum p{
+    display: block;
+    margin-left:3%;
+    margin-right: 3%;
+    
+}
+
+.header-sum-e h2{
+    color: lightseagreen;
+    margin-left: 3%;
+    text-decoration: underline;
+}
+.header-sum-e h3{
+   margin-left: 3%;
+    
+}
+.header-sum-e p{
+    margin-left: 3%;
+}
+.header-sum-e h2{
+    color: lightseagreen;
+    margin-left: 3%;
+    text-decoration: underline;
+}
+.header-sum-e p{
+    display: block;
+    margin-left:3%;
+    margin-right: 3%;
+    
+}
+.header-sum-e ol{
+    margin-left: 3%;
+}
+.header-sum-e h4{
+    margin-left: 3%;
+}
+.header-sum-e ul{
+    display:flex;
+    margin: 2%;
+    
+}
+.header-sum-e ul li{
+     margin: 1%;
+     line-height: 1%;
+}
+.header-sum-ts h2{
+    color: lightseagreen;
+    margin-left: 3%;
+    text-decoration: underline;
+}
+.header-sum-ts ul{
+    margin-left: 3%;
+}
+.header-sum-ts p{
+    margin-left: 3%;
+}
